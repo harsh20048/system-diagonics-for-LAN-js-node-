@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Bolt
 
 ## Setup Instructions
@@ -35,3 +36,6 @@ This will allow the software to proceed with the network scanning and system inf
 ````
 
 These changes should resolve the `ECONNREFUSED` error and ensure that the frontend can connect to the backend server correctly. If you encounter any issues, please let me know.
+=======
+# system-diagonics-for-LAN-js-node-
+>>>>>>> 7fe052e88aaf1ff93e9aaa20906e35fc64bc58c4
