@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Project Bolt
+# Project 
 
 ## Setup Instructions
 
